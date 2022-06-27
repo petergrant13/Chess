@@ -5,7 +5,7 @@ pieceScore = {"K": 100, "Q": 9, "R": 5, "B": 3.5, "N": 3, "p": 1}
 CHECKMATE = 10000
 STALEMATE = 0
 
-
+#github
 
 def findRandomMove(validMoves):
     print("random")
